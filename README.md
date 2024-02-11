@@ -1,5 +1,5 @@
-Report  
-   Analysis and Findings --
+# Report  
+   ## Analysis and Findings --
 
 
 1)  The accompanying bar graph shows the percentage of reservations that are cancelled and those that are not. It is obvious that there are still a significant number of reservations that have not been cancelled. 
@@ -27,12 +27,12 @@ As we can see that Portugal is the top Country with 70.07% Cancellations happeni
 
 
 
-*   Now let’s check the area from where guests are visiting the Hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?  Around 46% of the clients come from Online Travel Agencies, whereas 27% come from Groups. Only 4% of the clients book hotels directly by visiting them and making reservations.
+We check the area from where guests are visiting the Hotels and making reservations. Is it coming from Direct or Groups, Online or Offline Travel Agents?  Around 46% of the clients come from Online Travel Agencies, whereas 27% come from Groups. Only 4% of the clients book hotels directly by visiting them and making reservations.
  
 
 As seen in the graph, reservations are cancelled when the Average Daily Rate (ADR) is higher than when it is not cancelled. It clearly proves in all the above analysis that higher ADR leads to higher cancellations.
 
-Suggestions-
+# Suggestions-
 1)	Cancellation rate rises as the ADR does. In order to prevent cancellations of reservations, hotels could work on the pricing strategies and try to lower the rates for specific hotels based on their locations. They can also provide some discounts to the customers.
 
 2)	As the ratio of the cancellation and not cancellation is higher in Resort Hotels than the City hotels. So, the hotels should provide a reasonable discount on the room prices on weekends and on holidays.
